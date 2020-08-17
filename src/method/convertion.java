@@ -10,7 +10,7 @@ public class convertion {
 		{
 			System.out.println("enter amount in rupee");
 			obj3.rupee=obj.nextDouble();
-			System.out.println(" rupee"+obj3.rupee+"is conveerted dollar");
+			System.out.println(" rupee"+obj3.rupee+"is converted dollar");
 			return dollar=obj3.rupee/70;
 			
 		}
